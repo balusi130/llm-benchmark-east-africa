@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "A matatu has 14 seats. It makes 6 trips per day. Each trip it is 80% full on average. The fare is KES 50 per person. How much does the matatu earn in a day? Show your reasoning.",
+    "expected": "14 * 0.8 = 11.2 passengers per trip. 11.2 * 6 = 67.2 trips total. 67.2 * 50 = KES 3,360 per day."
+  },
+  {
+    "prompt": "If a boda boda rider earns KES 1,200 per day and spends 35% on fuel, 10% on savings, and KES 150 on food, how much is left?",
+    "expected": "Fuel: KES 420. Savings: KES 120. Food: KES 150. Total spent: KES 690. Remaining: KES 510."
+  }
+]
