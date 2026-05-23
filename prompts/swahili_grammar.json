@@ -1,0 +1,14 @@
+[
+  {
+    "prompt": "Tafsiri sentensi hii kwa Kiingereza: Ninakwenda dukani kununua mkate.",
+    "expected": "I am going to the shop to buy bread."
+  },
+  {
+    "prompt": "Sahihisha sentensi hii: Mimi ni kwenda shule jana.",
+    "expected": "Mimi nilikwenda shule jana."
+  },
+  {
+    "prompt": "What is the Swahili word for software engineer?",
+    "expected": "mhandisi wa programu"
+  }
+]
