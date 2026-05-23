@@ -1,0 +1,14 @@
+[
+  {
+    "prompt": "Translate this code-switched sentence to standard English: Nilikuwa naenda town kumeet mtu wa project.",
+    "expected": "I was going to town to meet the project person."
+  },
+  {
+    "prompt": "What does this Sheng phrase mean: Maze hiyo app ni poa sana, inafanya kazi mob.",
+    "expected": "That app is very good, it works a lot / it works very well."
+  },
+  {
+    "prompt": "Rewrite this in formal Swahili: Nilituma pesa lakini haikuenda, sasa niko stuck.",
+    "expected": "Nilituma pesa lakini haikufika, sasa nimekwama."
+  }
+]
