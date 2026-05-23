@@ -1,0 +1,14 @@
+[
+  {
+    "prompt": "A customer sends KES 5,000 via M-Pesa. The transaction fee is KES 67. How much does the recipient get and what is the total cost to the sender?",
+    "expected": "Recipient gets KES 5,000. Sender pays KES 5,067 total."
+  },
+  {
+    "prompt": "An M-Pesa agent has a float balance of KES 50,000. They process 3 withdrawals of KES 8,000 each and 2 deposits of KES 12,000 each. What is their remaining float?",
+    "expected": "KES 50,000 - 24,000 + 24,000 = KES 50,000"
+  },
+  {
+    "prompt": "What happens when you send money to an unregistered M-Pesa number?",
+    "expected": "The transaction fails and the money is not deducted. The sender receives an error message."
+  }
+]
